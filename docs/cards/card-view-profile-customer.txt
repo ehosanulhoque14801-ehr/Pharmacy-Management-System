@@ -1,0 +1,6 @@
+Card: View own profile details (Customer)
+List: Product Backlog
+Actor: Customer
+Description: Customer views their saved profile information such as name, contact, and address.
+Status: In Progress
+Assigned to: Saad Rafi
