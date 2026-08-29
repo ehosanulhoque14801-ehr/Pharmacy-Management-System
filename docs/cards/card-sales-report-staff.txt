@@ -1,0 +1,6 @@
+Card: View my sales report (Staff)
+List: Product Backlog
+Actor: Staff
+Description: Staff member views their sales report so that they can plan to meet their target.
+Status: In Progress
+Assigned to: Mohammad Ehosanul Hoque
