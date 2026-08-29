@@ -1,0 +1,6 @@
+Card: Search for medicine (Customer)
+List: To Do
+Actor: Customer
+Description: Customer searches for a specific medicine by name to check availability and price.
+Status: In Progress
+Assigned to: Saad Rafi
