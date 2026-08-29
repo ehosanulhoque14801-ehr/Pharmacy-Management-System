@@ -1,0 +1,6 @@
+Card: Update medicine information (Staff)
+List: Product Backlog
+Actor: Staff
+Description: Staff member updates medicine information so that everyone is aware of the updated information.
+Status: In Progress
+Assigned to: Mohammad Ehosanul Hoque
