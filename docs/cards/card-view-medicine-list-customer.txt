@@ -1,0 +1,6 @@
+Card: View medicine list (Customer)
+List: To Do
+Actor: Customer
+Description: Customer browses the full list of available medicines in the system.
+Status: In Progress
+Assigned to: Saad Rafi
