@@ -1,0 +1,6 @@
+Card: Make payment
+List: Product Backlog
+Actor: Customer
+Description: Customer completes payment for their order using an available payment method.
+Status: In Progress
+Assigned to: Saad Rafi

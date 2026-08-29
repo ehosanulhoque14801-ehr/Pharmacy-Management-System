@@ -1,0 +1,6 @@
+Card: Update my information (Customer)
+List: Product Backlog
+Actor: Customer
+Description: Customer edits and updates their personal details such as address or phone number.
+Status: In Progress
+Assigned to: Saad Rafi

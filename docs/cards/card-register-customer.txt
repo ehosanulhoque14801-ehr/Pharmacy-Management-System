@@ -1,0 +1,6 @@
+Card: Register customer profile
+List: Test
+Actor: Customer
+Description: New customer creates an account by providing personal details to access the system.
+Status: In Progress
+Assigned to: Saad Rafi
