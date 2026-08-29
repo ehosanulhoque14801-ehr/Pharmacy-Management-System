@@ -1,0 +1,6 @@
+Card: View Own profile details 
+List: Product Backlog
+Actor: Delivery Man
+Description: As a delivery man ,I want to view my own profile details so that i can see a list of information provided in the registration form.
+Status: In Progress
+Assigned to:  Meskatul Hasan Sajib

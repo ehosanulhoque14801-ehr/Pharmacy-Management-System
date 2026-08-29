@@ -1,0 +1,6 @@
+Card: Update my information 
+List: Product Backlog
+Actor: Delivery Man
+Description:  As a delivery man ,I want to update my information so that I can replace incorrect information with the right information.
+Status: In Progress
+Assigned to:  Meskatul Hasan Sajib
