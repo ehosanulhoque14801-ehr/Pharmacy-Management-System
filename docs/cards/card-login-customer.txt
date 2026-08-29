@@ -1,0 +1,6 @@
+Card: Login (Customer)
+List: To Do
+Actor: Customer
+Description: Customer logs into the system using registered credentials to access their account.
+Status: In Progress
+Assigned to: <Saad Rafi>
