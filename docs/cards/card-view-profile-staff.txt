@@ -1,0 +1,6 @@
+Card: View own profile details (Staff)
+List: Product Backlog
+Actor: Staff
+Description: Staff member views their own profile details so that the information provided in the registration form can be seen.
+Status: In Progress
+Assigned to: Mohammad Ehosanul Hoque
