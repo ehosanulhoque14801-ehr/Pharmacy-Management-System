@@ -1,0 +1,6 @@
+Card: Register delivery man profile
+List: In Progress
+Actor: Store Officer
+Description: As a Store officer, I want to create a new delivery man profile so that I can enroll a delivery man in the system.
+Status: In Progress
+Assigned to: Aditya Saha

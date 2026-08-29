@@ -1,0 +1,6 @@
+Card: View customer list
+List: Product Backlog
+Actor: Store Officer
+Description: As a Store officer, I want to view the customer list so that I can see all my customers' information.
+Status: Product Backlog
+Assigned to: Aditya Saha

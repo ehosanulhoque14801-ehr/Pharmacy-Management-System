@@ -1,0 +1,6 @@
+Card: Add new medicine (Store Officer)
+List: In Progress
+Actor: Store Officer
+Description: As a Store officer, I want to add new medicine so that I can add newly released medicine.
+Status: In Progress
+Assigned to: Aditya Saha

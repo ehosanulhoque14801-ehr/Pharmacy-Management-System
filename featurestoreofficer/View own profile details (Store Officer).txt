@@ -1,0 +1,6 @@
+Card: View own profile details (Store Officer)
+List: Product Backlog
+Actor: Store Officer
+Description: (No description provided)
+Status: Product Backlog
+Assigned to: Aditya Saha

@@ -1,0 +1,6 @@
+Card: Update medicine information (Store Officer)
+List: Product Backlog
+Actor: Store Officer
+Description: As a Store officer, I want to update medicine information so that everyone is aware of updated information.
+Status: Product Backlog
+Assigned to: Aditya Saha

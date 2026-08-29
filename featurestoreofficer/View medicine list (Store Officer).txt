@@ -1,0 +1,6 @@
+Card: View medicine list (Store Officer)
+List: Product Backlog
+Actor: Store Officer
+Description: As a Store officer, I want to view the medicine list so that I can see the update of quantity.
+Status: Product Backlog
+Assigned to: Aditya Saha

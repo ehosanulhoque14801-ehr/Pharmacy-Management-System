@@ -1,0 +1,6 @@
+Card: Remove medicine
+List: Product Backlog
+Actor: Store Officer
+Description: As a Store officer, I want to remove medicine so that it does not appear in any search.
+Status: Product Backlog
+Assigned to: Aditya Saha
