@@ -1,0 +1,6 @@
+Card: Search for medicine (Staff)
+List: Product Backlog
+Actor: Staff
+Description: Staff member searches for medicine so that customer orders can be processed.
+Status: In Progress
+Assigned to: Mohammad Ehosanul Hoque
