@@ -1,0 +1,6 @@
+Card: Add new medicine
+List: Product Backlog
+Actor: Staff
+Description: Staff member adds new medicine so that newly released medicine can be added to the system.
+Status: In Progress
+Assigned to: Mohammad Ehosanul Hoque

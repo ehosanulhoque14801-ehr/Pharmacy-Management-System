@@ -1,0 +1,6 @@
+Card: View medicine list (Staff)
+List: Product Backlog
+Actor: Staff
+Description: Staff member views the medicine list so that updates to quantity can be seen.
+Status: In Progress
+Assigned to: Mohammad Ehosanul Hoque

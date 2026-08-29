@@ -1,0 +1,6 @@
+Card: Login (Staff)
+List: Product Backlog
+Actor: Staff
+Description: Staff member logs in with their username and password so that the system can authenticate them.
+Status: In Progress
+Assigned to: Mohammad Ehosanul Hoque

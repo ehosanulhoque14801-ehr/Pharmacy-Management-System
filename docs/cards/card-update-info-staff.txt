@@ -1,0 +1,6 @@
+Card: Update my information (Staff)
+List: Product Backlog
+Actor: Staff
+Description: Staff member updates their information so that incorrect information can be replaced with correct information.
+Status: In Progress
+Assigned to: Mohammad Ehosanul Hoque
