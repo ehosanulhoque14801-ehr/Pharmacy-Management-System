@@ -1,0 +1,6 @@
+Card: View sales report (Store Officer)
+List: Product Backlog
+Actor: Store Officer
+Description: As a Store officer, I want to view the sales report so that I can know about monthly or yearly profit.
+Status: Product Backlog
+Assigned to: Aditya Saha

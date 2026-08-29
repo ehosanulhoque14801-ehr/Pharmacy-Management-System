@@ -1,0 +1,6 @@
+Card: Register store officer profile
+List: Done
+Actor: Store Officer
+Description: As a Store officer, I want to create a new store officer profile so that I can enroll myself in the system.
+Status: Done
+Assigned to: Aditya Saha

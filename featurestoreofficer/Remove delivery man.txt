@@ -1,0 +1,6 @@
+Card: Remove delivery man
+List: Product Backlog
+Actor: Store Officer
+Description: As a Store officer, I want to remove a delivery man so that the delivery man cannot access the system.
+Status: Product Backlog
+Assigned to: Aditya Saha

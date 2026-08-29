@@ -1,0 +1,6 @@
+Card: Login (Store Officer)
+List: Test
+Actor: Store Officer
+Description: As a Store officer, I want to log in with my username and password so that the system can authenticate me and I can trust it.
+Status: Test
+Assigned to: Aditya Saha

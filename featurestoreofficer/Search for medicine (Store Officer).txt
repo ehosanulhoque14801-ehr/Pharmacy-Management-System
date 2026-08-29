@@ -1,0 +1,6 @@
+Card: Search for medicine (Store Officer)
+List: To Do
+Actor: Store Officer
+Description: As a Store officer, I want to search for medicine so that I can check quantity.
+Status: To Do
+Assigned to: Aditya Saha

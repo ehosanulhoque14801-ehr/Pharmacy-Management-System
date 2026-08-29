@@ -1,0 +1,6 @@
+Card: Update my information (Store Officer)
+List: Product Backlog
+Actor: Store Officer
+Description: As a Store officer, I want to update my information so that I can replace incorrect information with the right information.
+Status: Product Backlog
+Assigned to: Aditya Saha
