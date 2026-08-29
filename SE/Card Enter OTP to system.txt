@@ -1,0 +1,6 @@
+Card: Enter OTP to system 
+List: Product Backlog
+Actor: Delivery Man
+Description:  As a delivery man ,I want to enter OTP into the system so thst i can inform the system that the order is completed.
+Status: In Progress
+Assigned to:  Meskatul Hasan Sajib

@@ -1,0 +1,6 @@
+Card: View my sales report.
+List: Product Backlog
+Actor: Delivery Man
+Description:  As a delivery man ,I want to view my own sales so that i can sincere for the next time . 
+Status: In Progress
+Assigned to:  Meskatul Hasan Sajib
