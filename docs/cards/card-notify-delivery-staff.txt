@@ -1,0 +1,6 @@
+Card: Notify the delivery man
+List: Product Backlog
+Actor: Staff
+Description: Staff member notifies the delivery man so that the delivery man is aware the package is ready.
+Status: In Progress
+Assigned to: Mohammad Ehosanul Hoque
