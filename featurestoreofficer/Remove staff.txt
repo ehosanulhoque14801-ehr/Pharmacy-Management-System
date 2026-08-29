@@ -1,0 +1,6 @@
+Card: Remove staff
+List: Product Backlog
+Actor: Store Officer
+Description: As a Store officer, I want to remove staff so that the staff member cannot access the system.
+Status: Product Backlog
+Assigned to: Aditya Saha
