@@ -1,0 +1,6 @@
+Card: Add medicine to cart
+List: Product Backlog
+Actor: Customer
+Description: Customer adds a selected medicine to their shopping cart before checkout.
+Status: In Progress
+Assigned to: Saad Rafi
