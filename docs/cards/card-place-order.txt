@@ -1,0 +1,6 @@
+Card: Place an order
+List: Product Backlog
+Actor: Customer
+Description: Customer finalizes their cart and places an order for the selected medicines.
+Status: In Progress
+Assigned to: Saad Rafi
